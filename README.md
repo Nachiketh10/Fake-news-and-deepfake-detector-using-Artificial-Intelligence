@@ -1,0 +1,2 @@
+# Fake-news-and-deepfake-detector-using-Artificial-Intelligence
+In this project we have created interfaces which will help the users to check whether the news article is fake or real and the user can also check the image if its real or ai generated the project uses google gemini API to predict the results we have also added a chatbot where the user can interact with it and get the information that they desire.
