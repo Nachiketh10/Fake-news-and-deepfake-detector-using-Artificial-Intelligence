@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-dotenv
+pillow
+numpy
+google-generativeai>=0.7.2
